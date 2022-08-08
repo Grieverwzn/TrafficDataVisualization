@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "browserify": "^17.0.0",
+    "highcharts": "^10.2.0",
+    "highcharts-more": "^0.1.7",
+    "request-promise": "^4.2.6",
+    "require": "^2.4.20",
+    "save": "^2.5.0"
+  }
+}
