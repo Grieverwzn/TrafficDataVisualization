@@ -19,21 +19,21 @@ header {
   position: relative;
   height: 1.25rem;
   padding: 0.25rem;
-  background: url(../images/header_background.jpg) no-repeat;
+  background: url(../images/header_background.png) no-repeat;
   background-size: 100% 100%;
 }
 header h1 {
   font-size: 0.5625rem;
   color: black;
-  text-align: center;
-  line-height: 1rem;
+  text-align: left;
+  line-height: 0.5rem;
   right: 0.375rem;
 }
 header .showTime {
   position: absolute;
   right: 0.375rem;
   bottom: 0;
-  line-height: 0.1875rem;
+  line-height: 1.5rem;
   color: black;
   font-size: 0.375rem;
 }
@@ -46,7 +46,7 @@ header .showTime {
   padding: 0.125rem 0.125rem 0;
 }
 .mainbox .column {
-  flex: 3;
+  flex: 5;
 }
 .mainbox .column:nth-child(2) {
   flex: 5;
@@ -55,7 +55,7 @@ header .showTime {
 }
 .mainbox .panel {
   position: relative;
-  height: 4.8375rem;
+  height: 5.9rem;
   padding: 0.0125rem;
   border: 5px solid black;
   margin-bottom: 0.1875rem;
@@ -66,7 +66,7 @@ header .showTime {
 }
 .map {
   position: relative;
-  height: 9.875rem;
+  height: 12rem;
   border: 5px solid black;
 }
 .map .chart {
@@ -93,7 +93,6 @@ header .showTime {
     transform: translate(-50%, -50%) rotate(-360deg);
   }
 }
-/* 约束屏幕尺寸 */
 @media screen and (max-width: 1024px) {
   html {
     font-size: 42px !important;

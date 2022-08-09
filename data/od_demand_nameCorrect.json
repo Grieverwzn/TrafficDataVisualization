@@ -1,0 +1,434 @@
+[
+  {
+    "origin_zone_name": "Chico, CA",
+    "destination_zone_name": "Burley, ID",
+    "annual_total_trips": 4918521,
+    "important": "Chico, CA"
+  },
+  {
+    "origin_zone_name": "Chico, CA",
+    "destination_zone_name": "Riverside-San Bernardino-Ontario, CA",
+    "annual_total_trips": 2585164,
+    "important": "Chico, CA"
+  },
+  {
+    "origin_zone_name": "Chico, CA",
+    "destination_zone_name": "Winnemucca, NV",
+    "annual_total_trips": 3946247,
+    "important": "Chico, CA"
+  },
+  {
+    "origin_zone_name": "Chico, CA",
+    "destination_zone_name": "Riverside-San Bernardino-Ontario, CA",
+    "annual_total_trips": 2862877,
+    "important": "Chico, CA"
+  },
+  {
+    "origin_zone_name": "Chico, CA",
+    "destination_zone_name": "Salt Lake City, UT",
+    "annual_total_trips": 2902949,
+    "important": "Chico, CA"
+  },
+  {
+    "origin_zone_name": "Chico, CA",
+    "destination_zone_name": "Chico, CA",
+    "annual_total_trips": 8258872,
+    "important": "Chico, CA"
+  },
+  {
+    "origin_zone_name": "Chico, CA",
+    "destination_zone_name": "Madera, CA",
+    "annual_total_trips": 18263528,
+    "important": "Chico, CA"
+  },
+  {
+    "origin_zone_name": "Chico, CA",
+    "destination_zone_name": "Merced, CA",
+    "annual_total_trips": 3334224,
+    "important": "Chico, CA"
+  },
+  {
+    "origin_zone_name": "Chico, CA",
+    "destination_zone_name": "Visalia, CA",
+    "annual_total_trips": 15900427,
+    "important": "Chico, CA"
+  },
+  {
+    "origin_zone_name": "Chico, CA",
+    "destination_zone_name": "Chico, CA",
+    "annual_total_trips": 8258872,
+    "important": "Chico, CA"
+  },
+  {
+    "origin_zone_name": "Chico, CA",
+    "destination_zone_name": "Visalia, CA",
+    "annual_total_trips": 7255623,
+    "important": "Chico, CA"
+  },
+  {
+    "origin_zone_name": "Los Angeles-Long Beach-Anaheim, CA",
+    "destination_zone_name": "Bakersfield, CA",
+    "annual_total_trips": 18464448,
+    "important": "Los Angeles-Long Beach-Anaheim, CA"
+  },
+  {
+    "origin_zone_name": "Los Angeles-Long Beach-Anaheim, CA",
+    "destination_zone_name": "Oxnard-Thousand Oaks-Ventura, CA",
+    "annual_total_trips": 67290266,
+    "important": "Los Angeles-Long Beach-Anaheim, CA"
+  },
+  {
+    "origin_zone_name": "Los Angeles-Long Beach-Anaheim, CA",
+    "destination_zone_name": "Riverside-San Bernardino-Ontario, CA",
+    "annual_total_trips": 224472145,
+    "important": "Los Angeles-Long Beach-Anaheim, CA"
+  },
+  {
+    "origin_zone_name": "Los Angeles-Long Beach-Anaheim, CA",
+    "destination_zone_name": "Salt Lake City, UT",
+    "annual_total_trips": 31696825,
+    "important": "Los Angeles-Long Beach-Anaheim, CA"
+  },
+  {
+    "origin_zone_name": "Los Angeles-Long Beach-Anaheim, CA",
+    "destination_zone_name": "Santa Cruz-Watsonville, CA",
+    "annual_total_trips": 5130784,
+    "important": "Los Angeles-Long Beach-Anaheim, CA"
+  },
+  {
+    "origin_zone_name": "Modesto, CA",
+    "destination_zone_name": "Burley, ID",
+    "annual_total_trips": 3121041,
+    "important": "Modesto, CA"
+  },
+  {
+    "origin_zone_name": "Modesto, CA",
+    "destination_zone_name": "Merced, CA",
+    "annual_total_trips": 15965161,
+    "important": "Modesto, CA"
+  },
+  {
+    "origin_zone_name": "Modesto, CA",
+    "destination_zone_name": "Riverside-San Bernardino-Ontario, CA",
+    "annual_total_trips": 3014028,
+    "important": "Modesto, CA"
+  },
+  {
+    "origin_zone_name": "Modesto, CA",
+    "destination_zone_name": "San Francisco-Oakland-Berkeley, CA",
+    "annual_total_trips": 6540152,
+    "important": "Modesto, CA"
+  },
+  {
+    "origin_zone_name": "Modesto, CA",
+    "destination_zone_name": "Stockton, CA",
+    "annual_total_trips": 24432840,
+    "important": "Modesto, CA"
+  },
+  {
+    "origin_zone_name": "Oxnard-Thousand Oaks-Ventura, CA",
+    "destination_zone_name": "Los Angeles-Long Beach-Anaheim, CA",
+    "annual_total_trips": 67290266,
+    "important": "Oxnard-Thousand Oaks-Ventura, CA"
+  },
+  {
+    "origin_zone_name": "Oxnard-Thousand Oaks-Ventura, CA",
+    "destination_zone_name": "Santa Cruz-Watsonville, CA",
+    "annual_total_trips": 7106440,
+    "important": "Oxnard-Thousand Oaks-Ventura, CA"
+  },
+  {
+    "origin_zone_name": "Riverside-San Bernardino-Ontario, CA",
+    "destination_zone_name": "Bakersfield, CA",
+    "annual_total_trips": 3490663,
+    "important": "Riverside-San Bernardino-Ontario, CA"
+  },
+  {
+    "origin_zone_name": "Riverside-San Bernardino-Ontario, CA",
+    "destination_zone_name": "Chico, CA",
+    "annual_total_trips": 2862877,
+    "important": "Riverside-San Bernardino-Ontario, CA"
+  },
+  {
+    "origin_zone_name": "Riverside-San Bernardino-Ontario, CA",
+    "destination_zone_name": "Los Angeles-Long Beach-Anaheim, CA",
+    "annual_total_trips": 224472145,
+    "important": "Riverside-San Bernardino-Ontario, CA"
+  },
+  {
+    "origin_zone_name": "Riverside-San Bernardino-Ontario, CA",
+    "destination_zone_name": "Salt Lake City, UT",
+    "annual_total_trips": 37334441,
+    "important": "Riverside-San Bernardino-Ontario, CA"
+  },
+  {
+    "origin_zone_name": "Riverside-San Bernardino-Ontario, CA",
+    "destination_zone_name": "Burley, ID",
+    "annual_total_trips": 4715894,
+    "important": "Riverside-San Bernardino-Ontario, CA"
+  },
+  {
+    "origin_zone_name": "Riverside-San Bernardino-Ontario, CA",
+    "destination_zone_name": "Burley, ID",
+    "annual_total_trips": 11768304,
+    "important": "Riverside-San Bernardino-Ontario, CA"
+  },
+  {
+    "origin_zone_name": "Riverside-San Bernardino-Ontario, CA",
+    "destination_zone_name": "Burley, ID",
+    "annual_total_trips": 2826708,
+    "important": "Riverside-San Bernardino-Ontario, CA"
+  },
+  {
+    "origin_zone_name": "Riverside-San Bernardino-Ontario, CA",
+    "destination_zone_name": "Chico, CA",
+    "annual_total_trips": 2585164,
+    "important": "Riverside-San Bernardino-Ontario, CA"
+  },
+  {
+    "origin_zone_name": "Riverside-San Bernardino-Ontario, CA",
+    "destination_zone_name": "Modesto, CA",
+    "annual_total_trips": 3014028,
+    "important": "Riverside-San Bernardino-Ontario, CA"
+  },
+  {
+    "origin_zone_name": "Riverside-San Bernardino-Ontario, CA",
+    "destination_zone_name": "San Francisco-Oakland-Berkeley, CA",
+    "annual_total_trips": 16117190,
+    "important": "Riverside-San Bernardino-Ontario, CA"
+  },
+  {
+    "origin_zone_name": "Riverside-San Bernardino-Ontario, CA",
+    "destination_zone_name": "San Jose-Sunnyvale-Santa Clara, CA",
+    "annual_total_trips": 3272023,
+    "important": "Riverside-San Bernardino-Ontario, CA"
+  },
+  {
+    "origin_zone_name": "Riverside-San Bernardino-Ontario, CA",
+    "destination_zone_name": "Stockton, CA",
+    "annual_total_trips": 16382361,
+    "important": "Riverside-San Bernardino-Ontario, CA"
+  },
+  {
+    "origin_zone_name": "Riverside-San Bernardino-Ontario, CA",
+    "destination_zone_name": "Vallejo, CA",
+    "annual_total_trips": 14640674,
+    "important": "Riverside-San Bernardino-Ontario, CA"
+  },
+  {
+    "origin_zone_name": "Riverside-San Bernardino-Ontario, CA",
+    "destination_zone_name": "Winnemucca, NV",
+    "annual_total_trips": 11622320,
+    "important": "Riverside-San Bernardino-Ontario, CA"
+  },
+  {
+    "origin_zone_name": "Salt Lake City, UT",
+    "destination_zone_name": "Chico, CA",
+    "annual_total_trips": 2902949,
+    "important": "Salt Lake City, UT"
+  },
+  {
+    "origin_zone_name": "Salt Lake City, UT",
+    "destination_zone_name": "Los Angeles-Long Beach-Anaheim, CA",
+    "annual_total_trips": 31696825,
+    "important": "Salt Lake City, UT"
+  },
+  {
+    "origin_zone_name": "Salt Lake City, UT",
+    "destination_zone_name": "Riverside-San Bernardino-Ontario, CA",
+    "annual_total_trips": 37334441,
+    "important": "Salt Lake City, UT"
+  },
+  {
+    "origin_zone_name": "San Francisco-Oakland-Berkeley, CA",
+    "destination_zone_name": "Modesto, CA",
+    "annual_total_trips": 6540152,
+    "important": "San Francisco-Oakland-Berkeley, CA"
+  },
+  {
+    "origin_zone_name": "San Francisco-Oakland-Berkeley, CA",
+    "destination_zone_name": "Napa, CA",
+    "annual_total_trips": 4191891,
+    "important": "San Francisco-Oakland-Berkeley, CA"
+  },
+  {
+    "origin_zone_name": "San Francisco-Oakland-Berkeley, CA",
+    "destination_zone_name": "Riverside-San Bernardino-Ontario, CA",
+    "annual_total_trips": 16117190,
+    "important": "San Francisco-Oakland-Berkeley, CA"
+  },
+  {
+    "origin_zone_name": "San Francisco-Oakland-Berkeley, CA",
+    "destination_zone_name": "Sacramento-Roseville-Folsom, CA",
+    "annual_total_trips": 3091836,
+    "important": "San Francisco-Oakland-Berkeley, CA"
+  },
+  {
+    "origin_zone_name": "San Francisco-Oakland-Berkeley, CA",
+    "destination_zone_name": "San Jose-Sunnyvale-Santa Clara, CA",
+    "annual_total_trips": 94699863,
+    "important": "San Francisco-Oakland-Berkeley, CA"
+  },
+  {
+    "origin_zone_name": "San Francisco-Oakland-Berkeley, CA",
+    "destination_zone_name": "Santa Cruz-Watsonville, CA",
+    "annual_total_trips": 3239789,
+    "important": "San Francisco-Oakland-Berkeley, CA"
+  },
+  {
+    "origin_zone_name": "San Francisco-Oakland-Berkeley, CA",
+    "destination_zone_name": "Santa Cruz-Watsonville, CA",
+    "annual_total_trips": 15893205,
+    "important": "San Francisco-Oakland-Berkeley, CA"
+  },
+  {
+    "origin_zone_name": "San Francisco-Oakland-Berkeley, CA",
+    "destination_zone_name": "Stockton, CA",
+    "annual_total_trips": 23444761,
+    "important": "San Francisco-Oakland-Berkeley, CA"
+  },
+  {
+    "origin_zone_name": "San Francisco-Oakland-Berkeley, CA",
+    "destination_zone_name": "Vallejo, CA",
+    "annual_total_trips": 23847124,
+    "important": "San Francisco-Oakland-Berkeley, CA"
+  },
+  {
+    "origin_zone_name": "San Jose-Sunnyvale-Santa Clara, CA",
+    "destination_zone_name": "Merced, CA",
+    "annual_total_trips": 2729942,
+    "important": "San Jose-Sunnyvale-Santa Clara, CA"
+  },
+  {
+    "origin_zone_name": "San Jose-Sunnyvale-Santa Clara, CA",
+    "destination_zone_name": "Riverside-San Bernardino-Ontario, CA",
+    "annual_total_trips": 3272023,
+    "important": "San Jose-Sunnyvale-Santa Clara, CA"
+  },
+  {
+    "origin_zone_name": "San Jose-Sunnyvale-Santa Clara, CA",
+    "destination_zone_name": "Sacramento-Roseville-Folsom, CA",
+    "annual_total_trips": 9437079,
+    "important": "San Jose-Sunnyvale-Santa Clara, CA"
+  },
+  {
+    "origin_zone_name": "San Jose-Sunnyvale-Santa Clara, CA",
+    "destination_zone_name": "San Francisco-Oakland-Berkeley, CA",
+    "annual_total_trips": 94699863,
+    "important": "San Jose-Sunnyvale-Santa Clara, CA"
+  },
+  {
+    "origin_zone_name": "San Jose-Sunnyvale-Santa Clara, CA",
+    "destination_zone_name": "Santa Cruz-Watsonville, CA",
+    "annual_total_trips": 11854970,
+    "important": "San Jose-Sunnyvale-Santa Clara, CA"
+  },
+  {
+    "origin_zone_name": "San Jose-Sunnyvale-Santa Clara, CA",
+    "destination_zone_name": "Stockton, CA",
+    "annual_total_trips": 4025564,
+    "important": "San Jose-Sunnyvale-Santa Clara, CA"
+  },
+  {
+    "origin_zone_name": "Santa Cruz-Watsonville, CA",
+    "destination_zone_name": "Sacramento-Roseville-Folsom, CA",
+    "annual_total_trips": 9414729,
+    "important": "Santa Cruz-Watsonville, CA"
+  },
+  {
+    "origin_zone_name": "Santa Cruz-Watsonville, CA",
+    "destination_zone_name": "San Francisco-Oakland-Berkeley, CA",
+    "annual_total_trips": 3239789,
+    "important": "Santa Cruz-Watsonville, CA"
+  },
+  {
+    "origin_zone_name": "Santa Cruz-Watsonville, CA",
+    "destination_zone_name": "San Jose-Sunnyvale-Santa Clara, CA",
+    "annual_total_trips": 11854970,
+    "important": "Santa Cruz-Watsonville, CA"
+  },
+  {
+    "origin_zone_name": "Santa Cruz-Watsonville, CA",
+    "destination_zone_name": "Los Angeles-Long Beach-Anaheim, CA",
+    "annual_total_trips": 5130784,
+    "important": "Santa Cruz-Watsonville, CA"
+  },
+  {
+    "origin_zone_name": "Santa Cruz-Watsonville, CA",
+    "destination_zone_name": "Oxnard-Thousand Oaks-Ventura, CA",
+    "annual_total_trips": 7106440,
+    "important": "Santa Cruz-Watsonville, CA"
+  },
+  {
+    "origin_zone_name": "Santa Cruz-Watsonville, CA",
+    "destination_zone_name": "San Luis Obispo-Paso Robles, CA",
+    "annual_total_trips": 14231269,
+    "important": "Santa Cruz-Watsonville, CA"
+  },
+  {
+    "origin_zone_name": "Santa Cruz-Watsonville, CA",
+    "destination_zone_name": "Burley, ID",
+    "annual_total_trips": 3242589,
+    "important": "Santa Cruz-Watsonville, CA"
+  },
+  {
+    "origin_zone_name": "Santa Cruz-Watsonville, CA",
+    "destination_zone_name": "Napa, CA",
+    "annual_total_trips": 3819218,
+    "important": "Santa Cruz-Watsonville, CA"
+  },
+  {
+    "origin_zone_name": "Santa Cruz-Watsonville, CA",
+    "destination_zone_name": "San Francisco-Oakland-Berkeley, CA",
+    "annual_total_trips": 15893205,
+    "important": "Santa Cruz-Watsonville, CA"
+  },
+  {
+    "origin_zone_name": "Stockton, CA",
+    "destination_zone_name": "Burley, ID",
+    "annual_total_trips": 4041094,
+    "important": "Stockton, CA"
+  },
+  {
+    "origin_zone_name": "Stockton, CA",
+    "destination_zone_name": "Modesto, CA",
+    "annual_total_trips": 24432840,
+    "important": "Stockton, CA"
+  },
+  {
+    "origin_zone_name": "Stockton, CA",
+    "destination_zone_name": "Riverside-San Bernardino-Ontario, CA",
+    "annual_total_trips": 16382361,
+    "important": "Stockton, CA"
+  },
+  {
+    "origin_zone_name": "Stockton, CA",
+    "destination_zone_name": "San Francisco-Oakland-Berkeley, CA",
+    "annual_total_trips": 23444761,
+    "important": "Stockton, CA"
+  },
+  {
+    "origin_zone_name": "Stockton, CA",
+    "destination_zone_name": "San Jose-Sunnyvale-Santa Clara, CA",
+    "annual_total_trips": 4025564,
+    "important": "Stockton, CA"
+  },
+  {
+    "origin_zone_name": "Vallejo, CA",
+    "destination_zone_name": "Napa, CA",
+    "annual_total_trips": 12850755,
+    "important": "Vallejo, CA"
+  },
+  {
+    "origin_zone_name": "Vallejo, CA",
+    "destination_zone_name": "Riverside-San Bernardino-Ontario, CA",
+    "annual_total_trips": 14640674,
+    "important": "Vallejo, CA"
+  },
+  {
+    "origin_zone_name": "Vallejo, CA",
+    "destination_zone_name": "San Francisco-Oakland-Berkeley, CA",
+    "annual_total_trips": 23847124,
+    "important": "Vallejo, CA"
+  }
+]
