@@ -66,7 +66,7 @@ header .showTime {
 }
 .map {
   position: relative;
-  height: 12rem;
+  height: 10rem;
   border: 5px solid black;
 }
 .map .chart {
